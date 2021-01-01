@@ -36,7 +36,7 @@
 5) DCGAN - Anime faces dataset
    * [notebook](https://nbviewer.jupyter.org/github/veb-101/Generative_Models/blob/master/DCGAN_Anime_faces/dcgan-anime-faces.ipynb)
    * Example Generation
-    ![dcgan_anime](./DCGAN_Anime_faces\generation.gif)
+    ![dcgan_anime](./DCGAN_Anime_faces/generation.gif)
 
 
 * **PS:** GANs are harder to train than I imagined.
